@@ -10,6 +10,6 @@ the repository aim at some wonderful github reams in domain about AI, Robot(espe
 4.mit-racecar  
 ![mit-racecar](https://github.com/Zippen-Huang/great-github-team-for-AI-Robot/blob/master/mit-racecar.png)  
 
-4.F1/10-RACECAR 
+6.F1/10-RACECAR 
 ![F1/10-RACECAR ](https://github.com/Zippen-Huang/great-github-team-for-AI-Robot/blob/master/F1-10-RACECAR.png)  
 

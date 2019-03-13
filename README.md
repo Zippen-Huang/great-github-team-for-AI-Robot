@@ -13,3 +13,5 @@ the repository aim at some wonderful github reams in domain about AI, Robot(espe
 6.F1/10-RACECAR 
 ![F1/10-RACECAR ](https://github.com/Zippen-Huang/great-github-team-for-AI-Robot/blob/master/F1-10-RACECAR.png)  
 
+8.donkeycar  
+![donkeycar ](https://github.com/Zippen-Huang/donkeycar/blob/master/docs/assets/build_hardware/donkey2.PNG)  

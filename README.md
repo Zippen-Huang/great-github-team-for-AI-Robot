@@ -15,3 +15,6 @@ the repository aim at some wonderful github reams in domain about AI, Robot(espe
 
 8.donkeycar  
 ![donkeycar ](https://github.com/Zippen-Huang/donkeycar/blob/master/docs/assets/build_hardware/donkey2.PNG)  
+
+9.clearpath JACKAL  
+![clearpath JACKAL ](https://github.com/Zippen-Huang/donkeycar/blob/master/docs/assets/build_hardware/donkey2.PNG)

@@ -21,3 +21,8 @@ the repository aim at some wonderful github reams in domain about AI, Robot(espe
 
 10.linorobot       
 ![linorobot](https://github.com/Zippen-Huang/great-github-team-for-AI-Robot/blob/master/linorobot.png)
+
+11.ROSbot          
+![ROSbot](https://github.com/Zippen-Huang/great-github-team-for-AI-Robot/blob/master/ROSbot.png)
+
+
